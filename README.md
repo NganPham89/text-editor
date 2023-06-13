@@ -3,7 +3,7 @@ A text editor that can run in the browser and can store data for offline use.
 
 ![MIT](https://img.shields.io/badge/license-MIT-blue.svg)
 
-A link to the deployed app can be found [here](https://drive.google.com/file/d/1g9E9XEskw892D4jTHvWod0xJI46kedqt/view)
+A link to the deployed app can be found [here](https://damp-castle-49314.herokuapp.com/)
 
 ## Screenshot
 
